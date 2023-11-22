@@ -5,17 +5,17 @@
 
 
 ##### Skills 
-JavaScript
-React
-Redux
-CSS
-HTML
+JavaScript<br>
+React<br>
+Redux<br>
+CSS<br>
+HTML<br>
 
 
 ##### Work Experience 
-MIIT
-Frontend developer
-Aug 2023 - now
+MIIT<br>
+Frontend developer<br>
+Aug 2023 - now<br>
 
 ##### Education 
 Econimic
