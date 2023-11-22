@@ -1,7 +1,7 @@
 # Ekaterina Rechkina CV
 
 ##### My contacts
-[github:][(https://link-url-here.org](https://github.com/EkaterinaRechkina)https://github.com/EkaterinaRechkina)
+[github](https://github.com/EkaterinaRechkina)
 
 
 ##### Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
