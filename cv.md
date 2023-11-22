@@ -4,10 +4,21 @@
 [github](https://github.com/EkaterinaRechkina)
 
 
-##### Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
+##### Skills 
+JavaScript
+React
+Redux
+CSS
+HTML
 
-##### Work Experience (Junior Devs can list educational projects with the skills used and links to the source code)
 
-##### Education (including completed courses and training)
+##### Work Experience 
+MIIT
+Frontend developer
+Aug 2023 - now
 
-##### English Language (your English proficiency level, and if you had language practice, describe it)
+##### Education 
+Econimic
+
+##### English Language
+English B1
